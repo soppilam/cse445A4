@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotels xmlns="https://soppilam.github.io/cse445A4/Hotels.xsd">
+<Hotels xmlns="http://venus.sod.asu.edu/WSRepository/xml">
     <Hotel Rating="4.2">
         <Name>Westin</Name>
         <Phone>480-968-8885</Phone>
